@@ -1,3 +1,10 @@
+Rowan Neville
+Website made for my own custom portfolio using a premade template supplied by HTML5 UP.
+The original README for this is below.
+All resources used in this website are open-source materials that are not copyrighted.
+I hold the rights to the projects themselves.
+
+
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
